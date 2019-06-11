@@ -1,0 +1,49 @@
+title = "Gem City Swing"
+baseURL = "https://gemcityswing.ngrok.io"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 12 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = -120
+
+  [[menu.main]]
+    name = "What Is Swing Dancing"
+    url = "/what-is-swing-dancing/"
+    weight = -110
+
+  [[menu.main]]
+    name = "FAQ"
+    url = "/faq/"
+    weight = -100
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Gem City Swing"
+  facebook = "https://www.facebook.com/gemcityswing/"
+  twitter = ""
+  instagram = "https://www.instagram.com/gemcityswing/"
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/2019-header-1.jpg"
+  recent_posts_number = 3
