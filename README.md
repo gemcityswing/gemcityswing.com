@@ -10,17 +10,19 @@ Before you continue:
 
 1. Do you have beginner and series lesson instructors and know what content they are teaching?
 2. Is there a band night or special event that will interupt the month?
-3. Did you create a Facebook event for the month and schedule dates/times for each Tuesday?
-4. Did you create the meetup events for each Tuesday in the month?
-5. Did you create the daytonlocal.com event for the month?
-6. Did you create the upcoming.org events for each Tuesday in the month?
-7. Did you select an image to use with the event post?
+3. Are there any announcements or other events that should be mentioned?
+4. Did you create a Facebook event for the month and schedule dates/times for each Tuesday?
+5. Did you create the meetup events for each Tuesday in the month?
+6. Did you create the daytonlocal.com event for the month?
+7. Did you create the upcoming.org events for each Tuesday in the month?
+8. Did you select an image to use with the event post?
+9. Did you schedule a newsletter update to be sent?
 
 Create a new post in the content/post directory named "[year]-[month]-monthly-dances.md" and copy the content from the last monthly event into it.
 
 By default, Hugo will not build posts that are published in the future, so you need to be very careful of the front-matter at the top of the post file. The current practice is to publish monthly dance posts once month before they occur. For example, the June 2019 monthly dance post would be published on 01 May 2019.
 
-Posts also have a summary section that controls what is displayed on the home page and post summary vs the full post page. Please include everything necessary to attend in a concise format above the "<!--more-->" block used to control the end of the summary.
+Posts also have a summary section that controls what is displayed on the home page and post summary vs the full post page. Please include everything necessary to attend in a concise format above the "&lt;!--more--&gt;" block used to control the end of the summary.
 
 An example monthly event post looks like:
 
