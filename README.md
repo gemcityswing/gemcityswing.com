@@ -13,9 +13,9 @@ By default, Hugo will not build posts that are published in the future, so you n
 Posts also have a summary section that controls what is displayed on the home page and post summary vs the full post page. Please include everything necessary to attend in a concise format above the "<!--more-->" block used to control the end of the summary.
 
     ---
-    date: 2019-06-01T09:00:00-05:00
-    description: "Monthly Dances for June 2019"
-    featured_image: '/images/2019-june-dance.jpg'
+    date: 2019-05-01T09:00:00-05:00
+    description: "Dances hosted by Gem City Swing in June 2019"
+    featured_image: '/images/2019-header-1.jpg'
     tags: ["weekly dances"]
     title: "June 2019 Dances"
     ---
@@ -36,3 +36,37 @@ Posts also have a summary section that controls what is displayed on the home pa
 ## Board Meetings
 
 Create a new post in the content/board-meeting directory named "<year>-<month>.md".
+
+By default, Hugo will not build posts that are published in the future, so you need to be very careful of the front-matter at the top of the post file. The current practice is to publish board meeting notes the day after the board meeting takes place.
+
+    ---
+    date: 2019-05-01T09:00:00-05:00
+    description: "Board Meeting minutes for June 2019"
+    featured_image: '/images/2019-header-2.jpg'
+    tags: ["governance"]
+    title: "June 2019 Meeting"
+    ---
+
+    Met to discuss regular business including scheduling for the following several months, upcoming events, etc.
+
+    <!--more-->
+    
+    # Attendees
+
+    * Nick
+    * James
+    * Emily
+    * Vahid
+    * etc
+    
+    # Agenda
+    
+    * Roll call
+    * Recamp of May 2019 meeting
+    * New business
+    
+    # Notes
+
+    The beginner lesson will be taught by X and Y. The series lesson will be taught by Y and Z.
+    
+    ...

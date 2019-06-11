@@ -1,7 +1,7 @@
 ---
 date: 2019-06-01T09:00:00-05:00
 description: "Monthly Dances for June 2019"
-featured_image: '/images/2019-june-dance.jpg'
+featured_image: '/images/2019-header-2.jpg'
 tags: ["weekly dances"]
 title: "June 2019 Dances"
 ---
