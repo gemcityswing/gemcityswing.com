@@ -12,9 +12,10 @@ Our June dances will be held on June 11th, 18th, and 25th at the American Czecho
 
 Where to RSVP:
 
-Facebook: [https://www.facebook.com/events/464910107597499/](https://www.facebook.com/events/464910107597499/)
-Meetup: [11th](https://www.meetup.com/Dayton-Swing-Dancers/events/rddxxqyzjbpb/), [18th](https://www.meetup.com/Dayton-Swing-Dancers/events/rddxxqyzjbxb/), and [25th](https://www.meetup.com/Dayton-Swing-Dancers/events/rddxxqyzjbhc/).
-Upcoming: [11th](https://upcoming.org/event/gem-city-swing-june-dances-qdx2ftdfux), [18th](https://upcoming.org/event/gem-city-swing-june-dances-mo8cfb3i0x), and [25th](https://upcoming.org/event/gem-city-swing-june-dances-zk5vrqf8u3)
+* [Facebook](https://www.facebook.com/events/464910107597499/)
+* Meetup: [11th](https://www.meetup.com/Dayton-Swing-Dancers/events/rddxxqyzjbpb/), [18th](https://www.meetup.com/Dayton-Swing-Dancers/events/rddxxqyzjbxb/), and [25th](https://www.meetup.com/Dayton-Swing-Dancers/events/rddxxqyzjbhc/).
+* Upcoming: [11th](https://upcoming.org/event/gem-city-swing-june-dances-qdx2ftdfux), [18th](https://upcoming.org/event/gem-city-swing-june-dances-mo8cfb3i0x), and [25th](https://upcoming.org/event/gem-city-swing-june-dances-zk5vrqf8u3)
+* [DaytonLocal.com](https://www.daytonlocal.com/things-to-do/gem-city-swing-dances.asp)
 
 Schedule:
 

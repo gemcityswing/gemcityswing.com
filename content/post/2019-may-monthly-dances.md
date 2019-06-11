@@ -12,8 +12,8 @@ Our May dances will be held on May 14th and 21st at the American Czechoslovakian
 
 Where to RSVP:
 
-Facebook: [https://www.facebook.com/events/1151726958364949/](https://www.facebook.com/events/1151726958364949/)
-Meetup: [14th](https://www.meetup.com/Dayton-Swing-Dancers/events/rddxxqyzhbsb/) and [21st](https://www.meetup.com/Dayton-Swing-Dancers/events/rddxxqyzhbcc/)
+* Facebook: [https://www.facebook.com/events/1151726958364949/](https://www.facebook.com/events/1151726958364949/)
+* Meetup: [14th](https://www.meetup.com/Dayton-Swing-Dancers/events/rddxxqyzhbsb/) and [21st](https://www.meetup.com/Dayton-Swing-Dancers/events/rddxxqyzhbcc/)
 
 Schedule:
 

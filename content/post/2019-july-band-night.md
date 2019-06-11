@@ -3,7 +3,7 @@ date: 2019-06-01T09:30:00-05:00
 description: "Live band with Brenny's Bandits hosted by Gem City Swing in July 2019"
 featured_image: '/images/2019-header-4.jpg'
 tags: ["weekly dances", "band night"]
-title: "Live music by Brenny's Bandits"
+title: "Live Band: Brenny's Bandits"
 ---
 
 This week’s dance is going to be extra long because we have Brenny’s Bandits to play amazing tunes for us at the American Czechoslovakian Club ([922 Valley St, Dayton, OH 45404](https://goo.gl/maps/FTHUeuSBqKnNEJgQ6)). We’ll have food and dress up nice for this special dance! The beginner lesson starts at 7:30 PM, the series lesson starts at 7:00 PM, and the social dance starts at 8:00 PM. Because of the live band this week, the dance will cost $10. The series lesson will cost $15. Taking either of the lessons will get you into the social dance for free!
