@@ -1,0 +1,6 @@
+[build]
+  publish = "public/"
+  command = "hugo serve -b https://angry-turing-cc2383.netlify.com --appendPort=false"
+
+[context.production]
+  environment = { HUGO_ENV = "production" }
