@@ -6,11 +6,23 @@ This is the website for [Gem City Swing](https://www.gemcityswing.com/), Dayton'
 
 ## Monthly Events
 
-Create a new post in the content/post directory named "<month>-<year>-monthly-dances.md".
+Before you continue:
+
+1. Do you have beginner and series lesson instructors and know what content they are teaching?
+2. Is there a band night or special event that will interupt the month?
+3. Did you create a Facebook event for the month and schedule dates/times for each Tuesday?
+4. Did you create the meetup events for each Tuesday in the month?
+5. Did you create the daytonlocal.com event for the month?
+6. Did you create the upcoming.org events for each Tuesday in the month?
+7. Did you select an image to use with the event post?
+
+Create a new post in the content/post directory named "[year]-[month]-monthly-dances.md" and copy the content from the last monthly event into it.
 
 By default, Hugo will not build posts that are published in the future, so you need to be very careful of the front-matter at the top of the post file. The current practice is to publish monthly dance posts once month before they occur. For example, the June 2019 monthly dance post would be published on 01 May 2019.
 
 Posts also have a summary section that controls what is displayed on the home page and post summary vs the full post page. Please include everything necessary to attend in a concise format above the "<!--more-->" block used to control the end of the summary.
+
+An example monthly event post looks like:
 
     ---
     date: 2019-05-01T09:00:00-05:00
@@ -35,9 +47,11 @@ Posts also have a summary section that controls what is displayed on the home pa
 
 ## Board Meetings
 
-Create a new post in the content/board-meeting directory named "<year>-<month>.md".
+Create a new post in the content/board-meeting directory named "[year]-[month].md".
 
 By default, Hugo will not build posts that are published in the future, so you need to be very careful of the front-matter at the top of the post file. The current practice is to publish board meeting notes the day after the board meeting takes place.
+
+An example board meeting summary looks like:
 
     ---
     date: 2019-05-01T09:00:00-05:00
