@@ -1,6 +1,6 @@
 ---
 title: What Is Swing Dancing
-featured_image: '/images/2019-header-4.jpg'
+featured_image: '/images/2019-header-6.jpg'
 omit_header_text: true
 description: Swing dance is a bucket term that refers to any dance style traditionally done to the swing style of jazz music.
 type: page

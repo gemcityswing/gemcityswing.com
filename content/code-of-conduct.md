@@ -2,6 +2,7 @@
 title: Code Of Conduct
 omit_header_text: true
 type: page
+featured_image: '/images/2019-header-4.jpg'
 ---
 
 We expect all attendees at any of our events to follow our Code of Conduct.  Failure to obey the code of conduct will result in your being asked to leave the event and never return.

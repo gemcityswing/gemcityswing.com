@@ -1,7 +1,7 @@
 ---
 title: About
 omit_header_text: true
-featured_image: '/images/2019-header-1.jpg'
+featured_image: '/images/2019-header-2.jpg'
 type: page
 ---
 
