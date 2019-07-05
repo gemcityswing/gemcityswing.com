@@ -34,6 +34,8 @@ He's Travis he's Travis he's Travis and check that hair<br/>
 
 # Zak Komon
 
+Zak has been dancing since 2011 at Miami University. He dances several styles and enjoys the different genres of dance. Zak is a  champion for the fun of a dance over other aspects.
+
 # James Benze
 
 One of the founders of Gem City Swing, James has been dancing since early 2010, first at the University of Dayton, and eventually all over the world.  Currently, James DJs at dance events all over the midwest as well as instructs the upper level class at the University of Dayton Swing Dance Club.  Dancing is as necessary to him as oxygen, and he hopes to spread this affliction to everyone else.
