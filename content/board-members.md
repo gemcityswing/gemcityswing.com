@@ -34,7 +34,7 @@ He's Travis he's Travis he's Travis and check that hair<br/>
 
 # Zak Komon
 
-Zak has been dancing since 2011 at Miami University. He dances several styles and enjoys the different genres of dance. Zak is a  champion for the fun of a dance over other aspects.
+Zak was introduced to swing dancing in 2011 at Miami University. Since then, he's been active in the regional dance community teaching others swing and blues dancing, but also encouraging everyone to really just have fun while doing it. 
 
 # James Benze
 
