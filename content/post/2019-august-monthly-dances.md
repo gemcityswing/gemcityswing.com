@@ -1,5 +1,5 @@
 ---
-date: 2019-06-01T09:00:00-05:00
+date: 2019-07-01T09:00:00-05:00
 description: "Dances hosted by Gem City Swing in August 2019"
 featured_image: '/images/2019-header-3.jpg'
 tags: ["weekly dances"]
