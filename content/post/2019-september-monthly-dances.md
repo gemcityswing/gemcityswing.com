@@ -3,7 +3,7 @@ date: 2019-08-01T09:00:00-05:00
 description: "Dances hosted by Gem City Swing in September 2019"
 featured_image: '/images/2019-header-3.jpg'
 tags: ["weekly dances"]
-title: "August 2019 Dances"
+title: "September 2019 Dances"
 ---
 
 Our September dances will be held on the 3rd, 10th, 17th, and 24th at the American Czechoslovakian Club ([922 Valley St, Dayton, OH 45404](https://goo.gl/maps/FTHUeuSBqKnNEJgQ6)). The beginner lesson starts at 7:30 PM, the series lesson starts at 7:00 PM, and the social dance starts at 8:00 PM. Entry to the social dance is $5 and includes a free beginner lesson. The series lesson is $10 and includes the social dance.
