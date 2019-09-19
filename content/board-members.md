@@ -18,6 +18,8 @@ Emily started swing dancing at the University of Dayton in 2010, and immediately
 
 # Meghan Yost
 
+I’ve been doing some form of dancing my whole life, but started swing dancing about 4 years ago. I enjoy teaching other people to swing dance, especially East Coast, Lindy Hop, and Charleston. I love attending dance workshops in Ohio and other cities in the Midwest, which allows me to learn new moves and techniques that I can pass on to students. 
+
 # Kyle Girtz
 
 # Travis Hartman
