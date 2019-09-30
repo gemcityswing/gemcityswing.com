@@ -1,9 +1,9 @@
 ---
 date: 2019-09-27T18:30:00-05:00
-description: "Board Meeting minutes for August 2019"
+description: "Board Meeting minutes for September 2019"
 featured_image: '/images/2019-header-3.jpg'
 tags: ["governance"]
-title: "August 2019 Meeting"
+title: "September 2019 Meeting"
 ---
 
 Met to discuss regular business including scheduling for the following several months, upcoming events, etc.
