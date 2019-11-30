@@ -1,6 +1,6 @@
 [build]
   publish = "public/"
-  command = "hugo -d public -b https://angry-turing-cc2383.netlify.com"
+  command = "hugo -d public -b https://www.gemcityswing.com"
 
 [context.production]
   environment = { HUGO_ENV = "production" }
