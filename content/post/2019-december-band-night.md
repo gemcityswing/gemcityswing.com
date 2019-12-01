@@ -1,12 +1,12 @@
 ---
 date: 2019-11-17T09:30:00-05:00
-description: "Live band with The JAzz Coasters hosted by Gem City Swing in December 2019"
+description: "Live band with Dave Greer and his Classic Jazz Stompers hosted by Gem City Swing in December 2019"
 featured_image: '/images/2019-header-5.jpg'
 tags: ["weekly dances", "band night"]
 title: "2019 Holiday Dance"
 ---
 
-Mark your calendars! Gem City Swing will have it's annual holiday dance on December 17th, 2019. We have The Jazz Coasters to play amazing tunes for us at the American Czechoslovakian Club ([922 Valley St, Dayton, OH 45404](https://goo.gl/maps/FTHUeuSBqKnNEJgQ6)) too. We’ll have food and dress up nice for this special dance! The beginner lesson starts at 7:30 PM, the series lesson starts at 7:00 PM, and the social dance starts at 8:00 PM. Because of the live band this week, the dance will cost $10. The series lesson will cost $15. Taking either of the lessons will get you into the social dance for free!
+Mark your calendars! Gem City Swing will have it's annual holiday dance on December 17th, 2019. We have Dave Greer and his Classic Jazz Stompers to play amazing tunes for us at the American Czechoslovakian Club ([922 Valley St, Dayton, OH 45404](https://goo.gl/maps/FTHUeuSBqKnNEJgQ6)) too. We’ll have food and dress up nice for this special dance! The beginner lesson starts at 7:30 PM, the series lesson starts at 7:00 PM, and the social dance starts at 8:00 PM. Because of the live band this week, the dance will cost $10. The series lesson will cost $15. Taking either of the lessons will get you into the social dance for free!
 
 <!--more-->
 
