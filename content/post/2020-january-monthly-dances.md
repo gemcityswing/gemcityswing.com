@@ -6,7 +6,7 @@ tags: ["weekly dances"]
 title: "January 2020 Dances"
 ---
 
-Our January dances will be held on the 7th, 14th, 21st, and 28th at the American Czechoslovakian Club ([922 Valley St, Dayton, OH 45404](https://goo.gl/maps/FTHUeuSBqKnNEJgQ6)). The beginner lesson starts at 7:30 PM, the series lesson starts at 7:00 PM, and the social dance starts at 8:00 PM. Entry to the social dance is $5 and includes a free beginner lesson. The series lesson is $10 and includes the social dance.
+We are excited to start 2020 on the right foot, or the left foot for some of you. Join us on January 7th as we start **Beginner Month** at Gem City Swing. Our January dances will be held on the 7th, 14th, 21st, and 28th at the American Czechoslovakian Club ([922 Valley St, Dayton, OH 45404](https://goo.gl/maps/FTHUeuSBqKnNEJgQ6)). The beginner lesson starts at 7:30 PM, the series lesson starts at 7:00 PM, and the social dance starts at 8:00 PM. Entry to the social dance is $5 and includes a free beginner lesson. The series lesson is $10 and includes the social dance.
 
 <!--more-->
 
