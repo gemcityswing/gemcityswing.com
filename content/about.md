@@ -21,5 +21,5 @@ More: [Code Of Conduct]({{< ref "code-of-conduct.md" >}})
 
 Gem City Swing has a board that is elected by it's members from the pool of members each year.
 
-More: [2019 Board Members]({{< ref "board-members.md" >}})
+More: [2020 Board Members]({{< ref "board-members.md" >}})
 
