@@ -6,21 +6,27 @@ featured_image: '/images/2019-header-3.jpg'
 toc: true
 ---
 
-# Nick Gerakines (President)
+# Vahid Schwart (President) 
 
-Nick is an American author, software engineer, and swing dancer based out of Dayton, Ohio.
+Vahid started swing dancing at the Ohio State University by taking a ballroom dance class when he needed to fill up credit hours. Little did he know that he would fall in love with lindy hop and swing music. Outside of dancing you'll usually find Vahid riding his bicycle as his preferred means of transportation.
 
-# Vahid Schwartz (Vice-President)
+# Nathaniel Lynch (Vice-President)
 
 # Emily Stienecker (Treasurer)
 
 Emily started swing dancing at the University of Dayton in 2010, and immediately fell in love. She has been avidly dancing ever since. She ran the University of Dayton Swing Dance Club the last 2 years of her undergrad, and has also been teaching the beginner lesson series there for the past 2 years. She enjoys teaching, dancing, and travelling, and hopes to get all new dancers to love swing dancing as much as she does!
 
-# Meghan Yost
+# Kaitlyn Nielsen (Secretary)
 
-I’ve been doing some form of dancing my whole life, but started swing dancing about 4 years ago. I enjoy teaching other people to swing dance, especially East Coast, Lindy Hop, and Charleston. I love attending dance workshops in Ohio and other cities in the Midwest, which allows me to learn new moves and techniques that I can pass on to students. 
+Kaitlyn first started swing dancing in 2014 while at University of Dayton. When she is not on the dance floor, you can find her behind a desk analyzing some spreadsheet or playing oboe in the community.
 
-# Kyle Girtz
+# Nick Gerakines
+
+Nick is an American author, software engineer, and swing dancer based out of Dayton, Ohio.
+
+# James Benze
+
+One of the founders of Gem City Swing, James has been dancing since early 2010, first at the University of Dayton, and eventually all over the world.  Currently, James DJs at dance events all over the midwest as well as instructs the upper level class at the University of Dayton Swing Dance Club.  Dancing is as necessary to him as oxygen, and he hopes to spread this affliction to everyone else.
 
 # Travis Hartman
 
@@ -32,12 +38,4 @@ He's Travis he's Travis he's Travis he's got some flair<br/>
 (1 bar instrumental)<br/>
 He's Travis he's Travis he's Travis and check that hair<br/>
 
-# Nathaniel Lynch
-
-# Zak Komon
-
-Zak was introduced to swing dancing in 2011 at Miami University. Since then, he's been active in the regional dance community teaching others swing and blues dancing, but also encouraging everyone to really just have fun while doing it. 
-
-# James Benze
-
-One of the founders of Gem City Swing, James has been dancing since early 2010, first at the University of Dayton, and eventually all over the world.  Currently, James DJs at dance events all over the midwest as well as instructs the upper level class at the University of Dayton Swing Dance Club.  Dancing is as necessary to him as oxygen, and he hopes to spread this affliction to everyone else.
+# Tri Nguyen
