@@ -1,7 +1,7 @@
 ---
 date: 2022-01-15T09:00:00-05:00
 description: "Join us every week for a lesson and dance."
-featured_image: '/images/2019-header-3.jpg'
+featured_image: '/images/lewisburg.jpg'
 tags: ["weekly dances"]
 title: "Dance with us! Vaccination Required."
 ---
