@@ -16,3 +16,7 @@ In general, if you behave like a reasonable human being, you’ll probably be ok
 **Safe Spaces**
 
 If someone or something is making you feel uncomfortable in ANY WAY, please tell a board member, instructor, dj, or desk worker.  We take your comfort and safety as our highest priority.  Anonymity is fine with us, as long as we know the problem exists so that we can resolve it.  Remember, if something or someone is making you feel uncomfortable, it’s probably affecting other dancers as well…but we can’t do anything about it until the issue is brought to our attention.
+
+**Covid Safety**
+
+The club is no longer requiring proof of vaccination for entry to our regular weekly dances nor does the club does require proof of negative tests for entry to our regular weekly dances.  We encourage all members and guests to vaccinate and take any and all precautions they feel comfortable with.  We reserve the right to change this policy at any time.  Any members or guests found harassing other members or guests about their vaccination status, wearing masks, etc. will be asked to leave and not come back.
