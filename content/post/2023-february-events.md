@@ -32,6 +32,11 @@ Lesson from 7:00 PM to 8:00 PM, drop-in lesson from 7:30 PM to 8:00 PM, and soci
 
 https://www.facebook.com/events/697845535348123/707910211008322
 
+### 2/16 Roaring 20's: A Prohibition Era Event
+
+https://www.hiddengemdayton.com/show/204
+
+https://www.facebook.com/events/1316317282552859
 
 ### 2/21 Gem City Swing Weekly Dance
 
