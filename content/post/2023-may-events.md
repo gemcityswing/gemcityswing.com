@@ -20,6 +20,10 @@ Lesson from 7:00 PM to 8:00 PM, and social dance from 8:00 PM to 9:30 PM.
 
 https://www.facebook.com/events/143786045072910/143786981739483
 
+### 5/13 Saturday Swing
+
+https://www.facebook.com/events/1406925403375699/
+
 ### 5/16 Gem City Swing Weekly Dance
 
 Lesson from 7:00 PM to 8:00 PM, and social dance from 8:00 PM to 9:30 PM.
