@@ -16,3 +16,7 @@ For the beginner class, we’ll teach you swing basics from scratch so you can g
 After the lesson we social dance from 8:00-9:30, allowing you to really show off your stuff. We rotate our DJs every week, and each of them has a large library of swing songs to play you, guaranteeing the tunes never get old. Throughout the night we sometimes have small events, such as jam circles (where dancers can choose to show off their skill), snowballs (an introductory activity that gets everyone dancing), and birthday jams (celebrations for those having a birthday this month) – make sure to stick around!
 
 Our weekly dances are held every Tuesday at the American Czechoslovakian Club. For the latest event information, please check our Facebook page: https://www.facebook.com/gemcityswing
+
+# Band Night 5/30
+
+On May 30th, we're thrilled to host the Hauer Swing Band from 8:00 to 10:00 PM. Entry that night is $10 at the door and includes both the swing dance lesson and the social bance with live music.
