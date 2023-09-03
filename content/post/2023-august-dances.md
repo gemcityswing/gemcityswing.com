@@ -1,5 +1,5 @@
 ---
-date: 2023-06-015T09:00:00-05:00
+date: 2023-07-015T09:00:00-05:00
 description: "August 2023 Weekly Dances"
 featured_image: '/images/lewisburg.jpg'
 tags: ["weekly dances"]
@@ -25,4 +25,3 @@ About the band: The Hauer Swing Band plays all the music of the 30s and 40s and 
 The Schedule: The lesson is an hour long from 7:00 to 8:00, the social dance with live music is from 8:00 to 10PM
 
 Cost: $10 at the door
-
