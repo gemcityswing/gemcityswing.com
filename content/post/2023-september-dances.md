@@ -1,5 +1,5 @@
 ---
-date: 2023-08-015T09:00:00-05:00
+date: 2023-08-01T09:00:00-05:00
 description: "September is beginner month"
 featured_image: '/images/lewisburg.jpg'
 tags: ["weekly dances"]

@@ -1,5 +1,5 @@
 ---
-date: 2023-07-015T09:00:00-05:00
+date: 2023-07-01T09:00:00-05:00
 description: "August 2023 Weekly Dances"
 featured_image: '/images/lewisburg.jpg'
 tags: ["weekly dances"]

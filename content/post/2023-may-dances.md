@@ -1,5 +1,5 @@
 ---
-date: 2023-04-015T09:00:00-05:00
+date: 2023-04-01T09:00:00-05:00
 description: "May is beginner month"
 featured_image: '/images/lewisburg.jpg'
 tags: ["weekly dances"]
