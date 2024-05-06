@@ -7,7 +7,7 @@ type: page
 
 **Do I need to know how to swing dance?**
 
-No!  We offer a half-hour beginner lesson before every social dance to help everyone nail down the basics.  It’s quick, easy, and fun!
+No!  We offer an hour beginner Fundamentals lesson before every social dance to help everyone nail down the basics.  It’s quick, easy, and fun!
 
 **Do I need to attend the beginner lesson with a partner?**
 
