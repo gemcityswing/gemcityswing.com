@@ -2,5 +2,8 @@
   publish = "public/"
   command = "hugo -d public -b https://www.gemcityswing.com"
 
+[build.environment]
+  HUGO_VERSION = "0.135.0"
+
 [context.production]
   environment = { HUGO_ENV = "production" }
