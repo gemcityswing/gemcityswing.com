@@ -6,9 +6,11 @@ theme = "gohugo-theme-ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 20
 googleAnalytics = ""
 enableRobotsTXT = true
+
+[pagination]
+pagerSize = 20
 
 [menu]
 
